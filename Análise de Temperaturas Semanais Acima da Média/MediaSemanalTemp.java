@@ -1,6 +1,6 @@
 /*   Hugo Eduardo de Castro Rolim Filho  */
 
-/*  Criar um algoritmo em Java que, dadas as temperaturas registradas
+/* Criar um algoritmo em Java que, dadas as temperaturas registradas
 diariamente durante uma semana, imprima as temperaturas e indique quais delas
 estiveram acima da temperatura média. Aqui estão os passos para resolver esse
 problema: */
