@@ -1,8 +1,7 @@
 /* Hugo Eduardo de Castro Rolim Filho  */
 
 /* Você foi desafiado a criar um programa que
-simula o jogo de adivinhação com um limite máximo de tentativas.
-Aqui estão os detalhes: */
+simula o jogo de adivinhação com um limite máximo de tentativas. */
 
 import java.util.Random;
 import java.util.Scanner;
