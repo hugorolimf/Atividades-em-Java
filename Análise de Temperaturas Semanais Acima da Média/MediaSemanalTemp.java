@@ -1,5 +1,4 @@
-/*   Hugo Eduardo de Castro Rolim Filho
-    Registro acadêmico: 202411011264    */
+/*   Hugo Eduardo de Castro Rolim Filho  */
 
 /*  Criar um algoritmo em Java que, dadas as temperaturas registradas
 diariamente durante uma semana, imprima as temperaturas e indique quais delas
